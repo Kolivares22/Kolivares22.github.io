@@ -1,0 +1,76 @@
+
+
+
+body { background-color: darkseagreen}
+
+.about{
+	border: solid;
+	padding: 5px;
+	display:inline-block;
+	width:40vw;
+	color: white;
+} 
+
+.links{
+border: solid;
+padding:5px;
+display:inline-block;
+width:40vw;
+text-align: center;
+color:white;
+
+
+}
+h1 { 
+
+	text-align: center;
+	color:darkslategray;
+}
+
+ol{ 
+color:white;
+}
+
+hr{
+	background-color: darkslategray;
+}
+
+li{
+	color:white;
+}
+
+h3{ text-align:center;
+color:white;}
+
+
+div.penguin {
+	Display:inline-block;
+	width:40vw;
+}
+
+.dream{ 
+color:white;
+padding:70px;
+
+}
+
+ul {
+	display:inline-block;
+	padding:30px;
+	border:solid;
+	border-color:white;
+}
+
+.Spain{
+	border-radius:20px;
+	margin:20px;
+}
+
+p {
+	border:solid;
+	Display: inline-block;
+	Width:40vw;
+	padding:10px
+}
+
+
