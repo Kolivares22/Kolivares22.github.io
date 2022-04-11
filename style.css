@@ -5,20 +5,23 @@ body { background-color: darkseagreen}
 
 .about{
 	border: solid;
-	padding: 5px;
+	padding:15px;
 	display:inline-block;
 	width:40vw;
 	color: white;
+	font-size:20px;
+	border-radius:5px;
+	
 } 
 
 .links{
 border: solid;
-padding:5px;
+padding:10px;
 display:inline-block;
 width:40vw;
 text-align: center;
 color:white;
-
+margin:-1px;
 
 }
 h1 { 
@@ -37,6 +40,7 @@ hr{
 
 li{
 	color:white;
+	font-size:18px;
 }
 
 h3{ text-align:center;
@@ -59,18 +63,60 @@ ul {
 	padding:30px;
 	border:solid;
 	border-color:white;
+	border-radius:20px;
+	
 }
+
+.bucket{
+	text-align:center;
+	padding-left:60px;
+	padding-right:60px;
+}
+
+
+.class{
+	text-align: center;
+	padding-left:60px;
+	padding-right:60px;
+}
+
 
 .Spain{
 	border-radius:20px;
 	margin:20px;
 }
+#minus, #plus, #total,#divide, #multiply, #add,#subtract,#adding{
+	display:inline-block;
+	font-size: 20px;
+	margin:3px;
+}
 
-p {
+
+
+
+
+.pen {
 	border:solid;
 	Display: inline-block;
 	Width:40vw;
-	padding:10px
+	padding:10px;
+}
+.guin{
+	display:inline-block;
+	border:solid;
+	width:25vw;
+	padding:20px;
+
+	
 }
 
+
+
+
+
+
+img{
+	border-radius:20px;
+	padding:-5px;
+}
 
