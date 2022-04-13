@@ -111,14 +111,18 @@ ul {
 }
 
 #quiz {
-	font-color:white;
+	color:lightslategrey;
 }
-
+#fcolor, #sfmovie, #dreamv,#hobby, #photo, #cphoto, #small{
+	color:gainsboro;
+}
 
 
 
 img{
 	border-radius:20px;
 	padding:-5px;
+}.button{
+	display:block;
+	vrticle-align:top;
 }
-

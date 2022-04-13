@@ -47,7 +47,9 @@ function calculate(){
 		result = result + 1
 	}
 		
-	document
+	document.getElementById("submit").addEventListener("click" , submit);
+	document.getElementById("score").addEventListener("click", score);
+	document.getElementById("submit").addEventListener("click", calculate);
 	
 }
 
