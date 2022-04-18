@@ -1,4 +1,10 @@
 
+
+
+
+
+
+
 function checkPass(){
 	
 
@@ -8,7 +14,8 @@ if (document.getElementById("password").value == "kjo"){
 	window.location = "index.html";
 }
 	else{
-		document.getElementById("access").innerHTML = "ACCESS DENIED";
+		document.getElementById("access").innerHTML = "The password " +
+		document.getElementById("password").value + " was the wrong.";
 		document.getElementById("access").style.color = "red";
 	}
 }
