@@ -50,17 +50,14 @@
 	color:grey;
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"
 }
-.resources{
-	display:inline-block;
-		font-size:10px;
-	padding-left: 18px;
-	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
-}
-.image{
-	padding-left: 20px;
+
+#activities,#calendar,#yearly,#student,#menus,#jobs,#sky,#email{
 	background-color: lightgrey;
-	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
 	padding-top: 10px;
+	padding-bottom: 10px;
+	
 }
 
 

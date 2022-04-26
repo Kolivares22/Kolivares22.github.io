@@ -1,0 +1,13 @@
+.iphone{
+	display:inline-block;
+	background-color:#303030;
+	color:white;
+	padding-top:10px;
+	padding-bottom: 10px;
+	padding-left: 15px;
+	padding-right:15px;
+	font-family:#d6d6d6;
+}
+#search, #cart{
+	
+}
