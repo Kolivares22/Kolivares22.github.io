@@ -1,13 +1,32 @@
 .iphone{
 	display:inline-block;
 	background-color:#303030;
-	color:white;
+	color:#d6d6d6;
 	padding-top:10px;
 	padding-bottom: 10px;
 	padding-left: 15px;
 	padding-right:15px;
-	font-family:#d6d6d6;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
 }
-#search, #cart{
-	
+.phone {
+	display:inline-block;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif
+}
+#daily{
+	background-color: #f5f5f7;
+	font-family: #1d1d1f;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+#buy{
+	color:white;
+	background-color:blue;
+	border-radius:17px;
+	padding-bottom: 10px;
+	padding-top:10px;
+	padding-left:15px;
+	padding-right:15px;
+}
+#learn
+{
+	padding-left: 15px;
 }
