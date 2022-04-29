@@ -1,0 +1,30 @@
+#article,#talk,#read,#edit,#view, #logo{
+	display:inline-block;
+	
+}
+#article, #talk{
+	padding-left:10px;
+}
+#talk{
+	margin-right:450px
+}
+#read, #edit,#view{
+	padding-left:10px;
+}
+#city{
+	margin-left:150px;
+}
+hr, .wiki{
+	margin-left:150px;
+}
+.content{
+	margin-left:150px;
+	
+}
+.tent{
+	border:solid;
+	padding-right:10px;
+}
+.content2{
+	margin-left:180px;
+}
