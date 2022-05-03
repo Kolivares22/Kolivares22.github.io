@@ -9,8 +9,12 @@
 	margin-right:450px
 }
 #read, #edit,#view{
-	padding-left:10px;
+	padding-left:5px;
+	padding-right:5px;
+	
 }
+
+
 #city{
 	margin-left:150px;
 }
@@ -22,10 +26,32 @@ hr, .wiki{
 	
 }
 .tent{
-	border:solid;
+	
 	padding-right:10px;
 	
 }
 .content2{
 	margin-left:180px;
 }
+.area, #trans{
+	margin-left: 150px;
+}
+
+.census{
+	font-weight:0;
+	margin-left:150px;
+	font-size: 20px;
+}
+
+.election{
+	margin-left:150px;
+	background-color:lightsteelblue;
+	
+}
+
+
+
+
+
+
+
