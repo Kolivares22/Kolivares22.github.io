@@ -1,9 +1,12 @@
-#article,#talk,#read,#edit,#view, #logo{
+#article,#talk,#read,#edit,#view{
 	display:inline-block;
 	
 }
 #article, #talk{
 	padding-left:10px;
+}
+#article{
+	margin-left:150px;
 }
 #talk{
 	margin-right:450px
@@ -48,8 +51,13 @@ hr, .wiki{
 	background-color:lightsteelblue;
 	
 }
-
-
+.people{
+	margin-left:150px;
+	padding-bottom: 10px;
+}
+.references{
+	margin-left: 150px;
+}
 
 
 
