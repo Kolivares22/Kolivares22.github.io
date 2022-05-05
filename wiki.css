@@ -6,7 +6,7 @@
 	padding-left:10px;
 }
 #article{
-	margin-left:150px;
+	margin-left:1px;
 }
 #talk{
 	margin-right:450px
@@ -16,16 +16,25 @@
 	padding-right:5px;
 	
 }
-
+.side{
+	display:block;
+}
+#main, #content,#events,#random,#pedia,#contact,#donate, #help, #edit2, #portal,#change,#upload{
+	display:block;
+}
 
 #city{
-	margin-left:150px;
+	margin-left:15px;
 }
 hr, .wiki{
-	margin-left:150px;
+	margin-left:15px;
+}
+#wik{
+	font-size: 13px;
+	margin-left:15px;
 }
 .content{
-	margin-left:150px;
+	margin-left:15px;
 	
 }
 .tent{
@@ -34,29 +43,29 @@ hr, .wiki{
 	
 }
 .content2{
-	margin-left:180px;
+	margin-left:18px;
 }
 .area, #trans{
-	margin-left: 150px;
+	margin-left: 15px;
 }
 
 .census{
 	font-weight:0;
-	margin-left:150px;
+	margin-left:15px;
 	font-size: 20px;
 }
 
 .election{
-	margin-left:150px;
-	background-color:lightsteelblue;
+	margin-left:15px;
+	background-color:#cddeff;
 	
 }
 .people{
-	margin-left:150px;
+	margin-left:15px;
 	padding-bottom: 10px;
 }
 .references{
-	margin-left: 150px;
+	margin-left: 15px;
 }
 
 
