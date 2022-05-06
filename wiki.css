@@ -16,12 +16,29 @@
 	padding-right:5px;
 	
 }
+#logo{
+	padding-bottom:25px
+}
+.bar{
+	background:#E7E7E7;
+}
 .side{
 	display:block;
+	margin-left:-2px;
+	padding-top:5px;
+	
+	
 }
-#main, #content,#events,#random,#pedia,#contact,#donate, #help, #edit2, #portal,#change,#upload{
-	display:block;
+#tool, #tribute,#print,#other, #lan{
+	margin-left: -2px;
+	
 }
+
+#sid{
+	color:blue;
+	
+}
+
 
 #city{
 	margin-left:15px;
@@ -57,15 +74,20 @@ hr, .wiki{
 
 .election{
 	margin-left:15px;
-	background-color:#cddeff;
+	background-color:#D0CAEA
 	
 }
 .people{
 	margin-left:15px;
 	padding-bottom: 10px;
+	font-family: Arial;
+	font-size:14px;
 }
 .references{
 	margin-left: 15px;
+	font-family:arial;
+	font-size:14px;
+	padding:5px;
 }
 
 
