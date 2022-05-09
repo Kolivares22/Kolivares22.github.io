@@ -21,7 +21,39 @@
 }
 .bar{
 	background:#E7E7E7;
+	display:inline-block;
 }
+.barside {
+	display:inline-block;
+	border:solid;
+	width: 260px;
+	
+}
+#mich, #c, #pre,#motto,#loc,#w{
+	border-bottom: solid;
+	margin-top: 10px;
+}
+#time{
+	border-top:solid;
+}
+
+#c{
+	background-color:#C2E0FF;
+}
+#st{
+	padding-left:14px;
+}
+#t{
+	padding-left:14px;
+}
+.country{
+	display:inline-block;
+}
+#state,#mn{
+	diplay:inline-block;
+	
+}
+
 .side{
 	display:block;
 	margin-left:-2px;
@@ -55,12 +87,13 @@ hr, .wiki{
 	
 }
 .tent{
-	
+	border:solid;
+	display:inline-block;
 	padding-right:10px;
 	
 }
 .content2{
-	margin-left:18px;
+	margin-left:35px;
 }
 .area, #trans{
 	margin-left: 15px;
