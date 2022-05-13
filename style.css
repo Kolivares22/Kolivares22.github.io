@@ -14,16 +14,6 @@ body { background-color: darkseagreen}
 	
 } 
 
-.links{
-border: solid;
-padding:10px;
-display:inline-block;
-width:40vw;
-text-align: center;
-color:white;
-margin:-1px;
-
-}
 h1 { 
 
 	text-align: center;
@@ -34,9 +24,7 @@ ol{
 color:white;
 }
 
-hr{
-	background-color: darkslategray;
-}
+
 
 li{
 	color:white;
@@ -55,24 +43,32 @@ div.penguin {
 .dream{ 
 color:white;
 padding:70px;
+margin-top:-40px
 
 }
 
 ul {
-	display:inline-block;
 	padding:30px;
 	border:solid;
 	border-color:white;
-	border-radius:20px;
 	
+}
+#italy, ul{
+	display:inline-block;
+	border-radius:20px;
+	margin-top:-50px;
 }
 
 .bucket{
 	text-align:center;
 	padding-left:60px;
 	padding-right:60px;
+	
 }
-
+#list{
+	margin-bottom:60px;
+	margin-top:-20px
+}
 
 .class{
 	text-align: center;
@@ -91,24 +87,29 @@ ul {
 	margin:3px;
 }
 
-
-
-
-
-.pen {
-	border:solid;
-	Display: inline-block;
-	Width:40vw;
-	padding:10px;
+#penguin{
+	color:lightcyan;
+	margin-bottom:-9px;
 }
-.guin{
-	display:inline-block;
-	border:solid;
-	width:25vw;
-	padding:20px;
-
+#table{
+	border-collapse: collapse;
+	border:white;
 	
 }
+th{
+	color:lightcyan;
+	font-size:20px;
+}
+td{
+	color:white;
+	padding-left:15px;
+	padding-right:15px;
+	padding-bottom:3px;
+}
+
+
+	
+
 
 #quiz {
 	color:lightslategrey;
@@ -117,12 +118,56 @@ ul {
 	color:gainsboro;
 }
 
-
-
-img{
-	border-radius:20px;
-	padding:-5px;
-}.button{
-	display:block;
-	vrticle-align:top;
+#hawaii{
+	margin-top:20px;
+	border:solid;
 }
+#graph{
+	margin-top:-20px;
+}
+
+.button{
+	display:inline-block;
+	padding-left:20px;
+	padding-right:20px;
+	padding-top:10px;
+	padding-bottom:10px;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	background-color:darkslategrey;
+	color:white;
+}
+
+#pl{
+	color:darkslategrey
+}
+#submit{
+	color:white;
+	background-color:darkslategrey;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+
+#sites{
+	margin-bottom:70px;
+	margin-top:-20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
