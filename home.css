@@ -7,15 +7,52 @@ body {background-color:antiquewhite;}
 	margin-top:-18px;
 	color:white;
 }
-#anti,#cath{
+#arco,#cath{
 	display:inline-block;
-	border-radius:10px;
+	border-radius:5px;
+}
+#map{
+	border-radius:5px;
 }
 #gua{
 	padding-left:0px;
 	color:grey;
 	border:groove;
-	padding-top:20px;
-	padding-bottom:20px;
-	border-radius:10px;
+	padding-top:0px;
+	padding-bottom:0px;
+	border-radius:5px;
 }
+#spain{
+	border:groove;
+}
+div{
+	display:inline-block;
+}
+
+#hotel, #act, #info, #cur{
+	display:block;
+	color:grey;
+	text-decoration:none;
+	padding-top:10px;
+	font-size:20px;
+}
+#res{
+	font-size:20px;
+	color:grey;
+	text-decoration:underline;
+	margin-bottom:-5px;
+}
+#cur{
+	margin-bottom:50px;
+}
+#about{
+	background-color:grey;
+	color:antiquewhite;
+	padding-top:10px;
+	padding-bottom:10px;
+	text-decoration: none;
+	padding-right:20vw;
+	padding-left:20vw;
+	text-align:center;
+}
+
