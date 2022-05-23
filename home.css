@@ -18,12 +18,17 @@ body {background-color:antiquewhite;}
 	padding-left:0px;
 	color:grey;
 	border:groove;
-	padding-top:0px;
-	padding-bottom:0px;
+	padding-top:10px;
+	padding-bottom:10px;
 	border-radius:5px;
 }
 #spain{
 	border:groove;
+	color:grey;
+	padding-top:10px;
+	padding-bottom:10px;
+	border-radius:5px;
+	margin-top:-10px;
 }
 div{
 	display:inline-block;
@@ -55,4 +60,26 @@ div{
 	padding-left:20vw;
 	text-align:center;
 }
+#hot{
+	color:teal;
 
+}
+#in{
+	color:teal;
+	margin-top:-15px;
+}
+#casa,#maya,#cami,#port{
+	display:block;
+	text-decoration: none;
+	color:teal;
+	
+}
+#5,#4,#3{
+	font-size: 20px; 
+}
+#mat{
+	color:antiquewhite;
+	background-color: teal;
+	padding-top:10px;
+	padding-bottom:10px;
+}
