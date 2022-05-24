@@ -74,12 +74,78 @@ div{
 	color:teal;
 	
 }
-#5,#4,#3{
-	font-size: 20px; 
-}
 #mat{
 	color:antiquewhite;
 	background-color: teal;
 	padding-top:10px;
 	padding-bottom:10px;
 }
+#san{
+	border:groove;
+	border-width: thin;
+	color:grey;
+	width:200px;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+#mino{
+	border:groove;
+	border-width: thin;
+	color:grey;
+	width:200px;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+#ort{
+	border:groove;
+	border-width: thin;
+	color:grey;
+	width:200px;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+#euro{
+	border:groove;
+	border-width: thin;
+	color:grey;
+	width:200px;
+	padding-top:5px;
+	padding-bottom:5px;
+
+}
+.star{
+	color:white;
+	background-color: teal;
+	font-size:20px;
+}
+#go, #san, #go{
+	display:inline-block;
+
+}
+#real, #mino, #ami{
+	display:inline-block;
+}
+#rta, #ort, #or{
+	display:inline-block;
+}
+#gran, #euro,#plaza{
+	display: inline-block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
