@@ -21,17 +21,21 @@ body {background-color:antiquewhite;}
 	padding-top:10px;
 	padding-bottom:10px;
 	border-radius:5px;
+	width:400px;
 }
 #spain{
 	border:groove;
 	color:grey;
-	padding-top:10px;
+	padding-top:30px;
 	padding-bottom:10px;
 	border-radius:5px;
-	margin-top:-10px;
+	margin-top:0px;
+	width:400px;
+
 }
-div{
+#spain, #gua{
 	display:inline-block;
+	font-size:19px;
 }
 
 #res{
@@ -126,6 +130,7 @@ div{
 }
 #vit{
 	color:grey;
+	margin-bottom:-10px;
 }
 .place{
 	background-color:grey;
