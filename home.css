@@ -37,7 +37,9 @@ body {background-color:antiquewhite;}
 	display:inline-block;
 	font-size:19px;
 }
-
+#leg{
+	color:grey;
+}
 #res{
 	font-size:20px;
 	color:grey;
@@ -139,11 +141,21 @@ body {background-color:antiquewhite;}
 .info{
 	color:grey;
 }
+#one, #ten, #total,#fif,#hun{
+	display:inline;
+}
 
-
-
-
-
+#cul{
+	color:teal;
+}
+#trad,#folk,#holy,#car,#fest{
+	color:grey;
+	border-right: solid;
+	width:550px;
+}
+h2{
+	color:teal;
+}
 
 
 
