@@ -151,15 +151,36 @@ body {background-color:antiquewhite;}
 #trad,#folk,#holy,#car,#fest{
 	color:grey;
 	border-right: solid;
+	border-left:solid;
 	width:550px;
+	border-color: teal;
+	border-radius:10px;
 }
 h2{
 	color:teal;
 }
-
-
-
-
+#about{
+	color:grey;
+}
+#out{
+	border-right:solid;
+	border-left:solid;
+	width:250px;
+	border-radius:10px;
+	color:grey;
+}
+#out, #page{
+	display:inline-block;
+}
+#page{
+	width:500px;
+	margin-left:140px;
+	color:grey;
+}
+#make{
+	color:grey;
+	width:300px;
+}
 
 
 
