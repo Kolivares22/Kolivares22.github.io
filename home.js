@@ -26,5 +26,6 @@ if (question5 =="Coffee") {
 if (question6 =="Ayarza") {
 	correct++;
 }
-
+document.getElementById("after_submit").style.visibility = "visible";
+document.getElementById("number_correct").innerHTML = "You got " + correct + "correct.";
 }
