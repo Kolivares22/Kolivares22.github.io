@@ -176,14 +176,31 @@ h2{
 	width:500px;
 	margin-left:140px;
 	color:grey;
+	border-top:solid;
+	border-bottom:solid;
+	border-radius:5px;
+	border-color:grey;
 }
 #make{
 	color:grey;
 	width:300px;
 }
-
-
-
-
+#cur{
+	color:teal;
+}
+.q{
+	color:darkcyan;
+	
+}
+#submit,#submi,#subm,#sub,#su,#s{
+	color:antiquewhite;
+	background-color:teal;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+#anti{
+	color:teal;
+	margin-top:-40px;
+	margin-bottom:30px;
+}
 
 
