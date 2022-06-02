@@ -210,3 +210,7 @@ color:teal;
 	background-color:white;
 	color:black;
 }
+#message, #number_correct{
+color:teal;
+text-size:20px;
+}
