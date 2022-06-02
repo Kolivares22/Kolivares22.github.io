@@ -26,6 +26,20 @@ if (question5 =="Coffee") {
 if (question6 =="Ayarza") {
 	correct++;
 }
+
+var messages = ["Great Job!", "That's okay", "Do Better"];
+	var range;
+		if(correct < 2 ){
+			range = 2;
+		}
+		if(correct > 0 && correct < 4 ){
+			range = 1;
+		}
+		if(correct > 4 ){
+			range = 0;
+		}
 document.getElementById("after_submit").style.visibility = "visible";
+
+document.getElementById("message").innerHTML = messages [range];
 document.getElementById("number_correct").innerHTML = "You got " + correct + " correct.";
 }
