@@ -32,7 +32,10 @@ var messages = ["Great Job!", "That's okay", "Do Better"];
 		if(correct < 2 ){
 			range = 2;
 		}
-		if(correct > 3 && correct < 4 ){
+		if(correct <3){
+			range = 1;
+		}
+		if(correct <4){
 			range = 1;
 		}
 		if(correct > 4 ){
